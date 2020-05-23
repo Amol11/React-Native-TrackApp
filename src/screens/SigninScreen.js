@@ -1,5 +1,5 @@
 import React, {useContext} from 'react';
-import {View, StyleSheet} from 'react-native';
+import {StyleSheet} from 'react-native';
 import AuthForm from '../components/AuthForm';
 import {NavigationEvents, SafeAreaView} from 'react-navigation';
 import NavLink from '../components/NavLink';
